@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paises</string>
+    <string name="pais">Brasil</string>
+    <string name="accessibility_flag">Brasil</string>
+    <string name="accessibility_food">Feijoada</string>
+    <string name="comidaTextView">Feijoada</string>
+</resources>

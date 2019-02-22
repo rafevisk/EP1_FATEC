@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textViewPais"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/pais"
+        android:textSize="@dimen/titulo_textsize" />
+
+    <ImageView
+        android:id="@+id/img_flag"
+        android:layout_width="@dimen/img_padrao"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="2"
+        android:contentDescription="@string/accessibility_flag"
+        app:srcCompat="@drawable/flag" />
+
+    <ImageView
+        android:id="@+id/img_food"
+        android:layout_width="@dimen/img_padrao"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="2"
+        android:contentDescription="@string/accessibility_food"
+        app:srcCompat="@drawable/food" />
+
+    <TextView
+        android:id="@+id/textViewFood"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/comidaTextView"
+        android:textSize="@dimen/titulo_textsize" />
+
+
+</LinearLayout>

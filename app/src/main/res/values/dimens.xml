@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="titulo_textsize">20sp</dimen>
+    <dimen name="img_padrao">250dp</dimen>
+</resources>

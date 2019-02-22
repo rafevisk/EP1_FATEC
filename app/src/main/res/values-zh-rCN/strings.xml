@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">國家</string>
+    <string name="pais">中國</string>
+    <string name="accessibility_flag">中國</string>
+    <string name="accessibility_food">糖醋豬肉</string>
+    <string name="comidaTextView">糖醋豬肉</string>
+</resources>

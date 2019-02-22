@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">البلدان</string>
+    <string name="pais">سعودي</string>
+    <string name="accessibility_flag">سعودي</string>
+    <string name="accessibility_food">التبولة</string>
+    <string name="comidaTextView">التبولة</string>
+</resources>
